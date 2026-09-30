@@ -1,0 +1,18 @@
+{
+  "mime": "video/mp4",
+  "parts": [
+    "assets/video-b64/segment-01.txt",
+    "assets/video-b64/segment-02.txt",
+    "assets/video-b64/segment-03.txt",
+    "assets/video-b64/segment-04.txt",
+    "assets/video-b64/segment-05.txt",
+    "assets/video-b64/segment-06.txt",
+    "assets/video-b64/segment-07.txt",
+    "assets/video-b64/segment-08.txt",
+    "assets/video-b64/segment-09.txt",
+    "assets/video-b64/segment-10.txt",
+    "assets/video-b64/segment-11.txt",
+    "assets/video-b64/segment-12.txt",
+    "assets/video-b64/segment-13.txt"
+  ]
+}
