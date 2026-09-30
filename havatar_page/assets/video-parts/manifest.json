@@ -1,0 +1,12 @@
+{
+  "mime": "video/mp4",
+  "parts": [
+    "assets/video-parts/part-01.txt",
+    "assets/video-parts/part-02.txt",
+    "assets/video-parts/part-03.txt",
+    "assets/video-parts/part-04.txt",
+    "assets/video-parts/part-05.txt",
+    "assets/video-parts/part-06.txt",
+    "assets/video-parts/part-07.txt"
+  ]
+}
